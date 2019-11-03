@@ -1,0 +1,47 @@
+
+body,html
+{
+		/*background: url(headset.jpg) no-repeat center center fixed;*/
+	/*background-size: cover;*/
+	/*-webkit-background-size:cover;*/
+	background-color:orange;
+	background-size: cover;
+	color: white;
+}
+
+h1
+{
+	color:#580016;
+}
+.btn
+{
+	border-radius: 50px;
+	padding: 10px 15px;
+	width: 150px;
+}
+hr
+{
+	width: 50px;
+	border-color: #012c3d;
+	border-width: 5px;
+}
+.btn
+{
+	background-color: #1c0342;
+
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	text-decoration: none;
+	color: white
+}
+.hi
+{
+	height:25px;
+}
